@@ -66,13 +66,6 @@ I’m a **full‑stack web developer** focused on building dependable software s
   src="https://github-readme-activity-graph.vercel.app/graph?username=xenosie&hide_border=true&radius=10"
 />
 
-<br/>
-
-<img
-  alt="GitHub streak"
-  src="https://streak-stats.demolab.com?user=xenosie&hide_border=true"
-/>
-
 </div>
 
 ---
@@ -84,22 +77,6 @@ Pin your best repositories (Profile → **Customize your pins**) and list a few 
 - **Project B** — problem → approach → result (key stack)
 - **Project C** — problem → approach → result (key stack)
 
----
-
-## Writing / notes
-- (Add links to technical posts, design write-ups, or docs you’re proud of.)
-
----
-
-## Deep‑dive metrics (optional)
-<div align="center">
-
-<img
-  alt="Metrics"
-  src="https://github.com/xenosie/github-metrics/blob/master/github-metrics.svg"
-/>
-
-</div>
 
 <sub>
 If you want the “Metrics” card to render, set up the GitHub Action from
@@ -114,12 +91,5 @@ If you want the “Metrics” card to render, set up the GitHub Action from
 - **Data**: schema design, migrations, query optimization, caching strategies
 - **Delivery**: Docker, CI pipelines, environment separation, release automation
 
----
 
-## Contact
-- GitHub: https://github.com/xenosie
-
-<div align="center">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
-</div>
 
