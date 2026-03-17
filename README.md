@@ -59,29 +59,8 @@ I’m a **full‑stack web developer** focused on building dependable software s
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenosie&layout=compact&hide_border=true"
 />
 
-<br/>
-
-<img
-  alt="Contribution activity graph"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=xenosie&hide_border=true&radius=10"
-/>
 
 </div>
-
----
-
-## Selected work
-Pin your best repositories (Profile → **Customize your pins**) and list a few here with one-line, outcome-focused descriptions:
-
-- **Project A** — problem → approach → result (key stack)
-- **Project B** — problem → approach → result (key stack)
-- **Project C** — problem → approach → result (key stack)
-
-
-<sub>
-If you want the “Metrics” card to render, set up the GitHub Action from
-`https://github.com/lowlighter/metrics` in a repo named `github-metrics` (or adjust the image path).
-</sub>
 
 ---
 
