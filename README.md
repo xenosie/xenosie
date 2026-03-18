@@ -1,7 +1,7 @@
 <div align="center">
 
 # xenosie
-### Full‑Stack Web Developer
+### Web Developer
 
 <p>
   <a href="https://github.com/xenosie">
