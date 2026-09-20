@@ -17,16 +17,6 @@
 
 </div>
 
----
-
-## About
-I’m a **full‑stack web developer** focused on building dependable software systems with clear architecture, careful engineering, and strong UX.
-
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, NestJS, Python, FastAPI
-- **Data/Infra**: PostgreSQL/MySQL, MongoDB, Redis, Docker, CI/CD, Cloud
-
----
 
 ## Tech Stack
 <p>
@@ -36,19 +26,7 @@ I’m a **full‑stack web developer** focused on building dependable software s
   />
 </p>
 
----
-
 ## Scholarly-style highlights
 - **Interests**: full‑stack systems, distributed services, developer tooling, performance & reliability
 - **Methods**: design docs, testable architectures, measured performance, CI/CD automation
 - **Work style**: readable code, explicit trade-offs, reproducible builds
-
----
-
-
-</div>
-
----
-
-
-
