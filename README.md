@@ -1,7 +1,7 @@
 <div align="center">
 
 # xenosie
-### Web Developer
+### Senior Software Engineer
 
 <p>
   <a href="https://github.com/xenosie">
@@ -45,30 +45,10 @@ I’m a **full‑stack web developer** focused on building dependable software s
 
 ---
 
-## Activity (graphs)
-<div align="center">
-
-<img
-  height="165"
-  alt="GitHub stats"
-  src="https://github-readme-stats.vercel.app/api?username=xenosie&show_icons=true&rank_icon=github&hide_border=true"
-/>
-<img
-  height="165"
-  alt="Top languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenosie&layout=compact&hide_border=true"
-/>
-
 
 </div>
 
 ---
-
-## What I do (Full Stack)
-- **Product UI**: accessible components, responsive layouts, state management, performance tuning
-- **APIs**: REST design, validation, auth, rate limiting, background jobs, integrations
-- **Data**: schema design, migrations, query optimization, caching strategies
-- **Delivery**: Docker, CI pipelines, environment separation, release automation
 
 
 
