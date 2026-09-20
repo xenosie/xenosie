@@ -3,18 +3,6 @@
 # xenosie
 ### Senior Software Engineer
 
-<p>
-  <a href="https://github.com/xenosie">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=xenosie&style=flat-square" />
-  </a>
-  <a href="https://github.com/xenosie?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/xenosie?label=Followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/xenosie?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/Repos-View-2ea44f?style=flat-square" />
-  </a>
-</p>
-
 </div>
 
 
